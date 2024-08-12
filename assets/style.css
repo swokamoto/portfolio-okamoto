@@ -19,8 +19,6 @@ nav {
     flex-direction: row;
 
 }
-/* section1 is a sidebar on the left */
-/* section2 contains the img, the first one is full size, the others are smalleer */
 
 section {
     display: flex;
